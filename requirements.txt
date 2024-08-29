@@ -1,0 +1,9 @@
+pandas
+pylance
+matplotlib
+numpy
+textblob
+gensim
+scikit-learn
+nltk
+scipy
