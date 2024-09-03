@@ -19,7 +19,7 @@ The final report should provide clear, actionable insights based on the sentimen
 1. Clone this repository:
 
 ```
-git clone https://github.com/BisRyy/kaim2-w1.git
+git clone https://github.com/Daniel-Andarge/nova-financial-analysis.git
 ```
 
 2. Install all dependencies using the requirements.txt file.
