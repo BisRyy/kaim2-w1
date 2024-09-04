@@ -14,16 +14,29 @@ The project requires proficiency in Data Engineering (DE), Financial Analytics (
 
 The final report should provide clear, actionable insights based on the sentiment and correlation analysis, offering innovative strategies to use news sentiment as a predictive tool for stock market trends.
 
-# Usage Instructions
+# Setup Instructions
 
-1. Clone this repository:
-
+1. Clone this repository.
+```bash
+git clone https://github.com/BisRyy/10academy
 ```
-git clone https://github.com/Daniel-Andarge/nova-financial-analysis.git
+2. Navigate to the project directory.
+```bash
+cd 10academy
+```
+3. Install the necessary packages using pip:
+```python
+pip install -r requirements.txt
+```
+4. Run the Streamlit app:
+```bash
+streamlit run app/main.py
 ```
 
-2. Install all dependencies using the requirements.txt file.
+5. Run the project using Jupyter Notebook. This will open a new browser window with the project at http://localhost:8888/ URL.
 
-3. Run the project using Jupyter Notebook. This will open a new browser window with the project at http://localhost:8888/ URL.
+6. To see the Exploratory Data Analysis (EDA), navigate to the `/notebooks` folder and open the notebook file.
 
-4. To see the Exploratory Data Analysis (EDA), navigate to the `/notebooks` folder and open the notebook file.
+# Author:
+
+- [Bisrat Kebere](https://linkedin.com/in/bisry)
